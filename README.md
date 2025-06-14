@@ -40,15 +40,15 @@ Projenin backend kısmı tamamen yalın PHP ile yazılmıştır, hiçbir harici 
  ├─ logout.php                # Kullanıcı hesabından çıkış işlemi
  ├─ database.php              # Kullanıcı bilgilerinin veri tabanında tutulması işlemi
  ├─ js/
- │   └─ script1.js        # Sepetin görüntülenmesine ilişkin javascript kodları
- │   └─ script2.js        # Sepetin güncellenmesine ilişkin javascript kodları
+ │   └─ script1.js            # Sepetin görüntülenmesine ilişkin javascript kodları
+ │   └─ script2.js            # Sepetin güncellenmesine ilişkin javascript kodları
  └─ sql/
-     └─ schema.sql      # Veri Tabanı yapılandırılması
+     └─ schema.sql            # Veri Tabanı yapılandırılması
 ```
 
 ## ⚙️ Kurulum
 
-* Siteye şu linkten ulaşabilirsiniz: 
+* Siteye şu linkten ulaşabilirsiniz: [Kağan TV WEB Sitesi](http://95.130.171.20/~st23360859059/)
 
 ## 🔐 Güvenlik Detayları
 
@@ -67,6 +67,6 @@ Projenin backend kısmı tamamen yalın PHP ile yazılmıştır, hiçbir harici 
 6. **Silme**: `remove_from_cart.php` ile veriyi silin.
 7. **Çıkış**: `logout.php` ile oturumu sonlandırın.
 
-## Demo Videosu
+## 📹 Demo Videosu
 
-* Sitenin çalışmasına ilişkin açıklamalarda bulunduğum demo videosuna şu bağlantıdan ulaşabilirsiniz:
+* Sitenin çalışmasına ilişkin açıklamalarda bulunduğum demo videosuna şu bağlantıdan ulaşabilirsiniz: [Tanıtım Videosu Linki](https://www.youtube.com/watch?v=a_-Bmqe1NhQ)
