@@ -70,7 +70,7 @@ Projenin backend kısmı tamamen yalın PHP ile yazılmıştır, hiçbir harici 
 ## 🖼️ Siteden Görüntüler
 
 ### Giriş Sayfası
-<img src="ProjeResimleri/GirisSayfasi.png" width="500" alt="Resim 1 Açıklaması">
+<img src="ProjeResimleri/GirisSayfasi.png" width="700" alt="Resim 1 Açıklaması">
 
 ### Kayıt Olma Paneli
 <img src="ProjeResimleri/KayitOl.png" width="300" alt="Resim 2 Açıklaması">
@@ -79,10 +79,10 @@ Projenin backend kısmı tamamen yalın PHP ile yazılmıştır, hiçbir harici 
 <img src="ProjeResimleri/GirisYap.png" width="300" alt="Resim 3 Açıklaması">
 
 ### Kullanıcı Sayfası
-<img src="ProjeResimleri/KullaniciSayfasi.png" width="500" alt="Resim 4 Açıklaması">
+<img src="ProjeResimleri/KullaniciSayfasi.png" width="700" alt="Resim 4 Açıklaması">
 
 ### Filmlerin Sepette Görünümü ve Film İsminin Güncellenmesi
-<img src="ProjeResimleri/SeppettekiFilmler.png" width="500" alt="Resim 5 Açıklaması">
+<img src="ProjeResimleri/SepettekiFilmler.png" width="300" alt="Resim 5 Açıklaması">
 
 ## 📹 Demo Videosu
 
